@@ -42,7 +42,7 @@ Allows the user to search for a specific product using Barcode
 Allow the owner to change their information
 Guest is not allowed to change the owner's information
 
-### `Pagination of Products`
+### `Pagination`
 
 ### `Login Session`
 
