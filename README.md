@@ -6,6 +6,8 @@ This project is built using [Flutter](https://flutter.dev/).
 
 [Download](https://github.com/bher00/House-Store-App/raw/main/app/house-store.apk)
 
+This application records products with a Barcode.
+
 ## Application Features
 
 ### `Two way Login`
