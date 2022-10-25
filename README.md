@@ -12,7 +12,7 @@ This application records products with a Barcode.
 
 ### `Two way Login`
 
-Allows user to login as Owner and Guest
+Allows user to login as Owner and Guest\
 Allows user to create their own Storage Store App
 
 ### `Logout`
@@ -21,12 +21,12 @@ Allows the user to logout or Backup & Logout the Database
 
 ### `Import / Export Database`
 
-Allows user to Import Owner Database to view some of the products
+Allows user to Import Owner Database to view some of the products\
 Allows user to Export Database for backup and Share with other guest
 
 ### `Add new product`
 
-As the owner, the User is allowed to add new products.
+As the owner, the User is allowed to add new products.\
 As a guest, Guest is not allowed to add new products.
 
 ### `Search Product by Name`
@@ -39,7 +39,7 @@ Allows the user to search for a specific product using Barcode
 
 ### `Owner Information`
 
-Allow the owner to change their information
+Allow the owner to change their information\
 Guest is not allowed to change the owner's information
 
 ### `Pagination`
