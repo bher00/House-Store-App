@@ -5,8 +5,8 @@ This project is built using [Flutter](https://flutter.dev/).
 ## Download Link
 
 Versions:
-- 1: [Download](https://github.com/bher00/House-Store-App/raw/main/app/house-store.apk)
-- 2: [Download](https://github.com/bher00/House-Store-App/raw/main/app/house-store-v2.apk)
+- 1.0: [Download](https://github.com/bher00/House-Store-App/raw/main/app/house-store.apk)
+- 1.2: [Download](https://github.com/bher00/House-Store-App/raw/main/app/house-store-v1.2.apk)
 
 This application records products with a Barcode.
 
